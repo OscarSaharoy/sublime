@@ -1,0 +1,4 @@
+{
+	"shell":true,
+	"windows": {"cmd":"g++ $file_name & a.exe"}
+}
