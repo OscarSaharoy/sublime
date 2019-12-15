@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Oscar Saharoy</string>
+	<string>Chris Thomas</string>
 	<key>name</key>
 	<string>Espresso Libre</string>
 	<key>settings</key>
@@ -307,7 +307,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F5AA7730</string>
+				<string>#EFFFFF14</string>
 			</dict>
 		</dict>
 		<dict>
